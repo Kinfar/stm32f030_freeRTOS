@@ -1,0 +1,14 @@
+.\obj\timers.o: src\Official_Files\FreeRTOS_V8_1_2\Source\timers.c
+.\obj\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\timers.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\FreeRTOS.h
+.\obj\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\timers.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\FreeRTOSConfig.h
+.\obj\timers.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\projdefs.h
+.\obj\timers.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\portable.h
+.\obj\timers.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\portable\RVDS\ARM_CM0\portmacro.h
+.\obj\timers.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\mpu_wrappers.h
+.\obj\timers.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\task.h
+.\obj\timers.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\list.h
+.\obj\timers.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\queue.h
+.\obj\timers.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\timers.h

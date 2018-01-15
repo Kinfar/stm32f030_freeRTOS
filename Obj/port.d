@@ -1,0 +1,11 @@
+.\obj\port.o: src\Official_Files\FreeRTOS_V8_1_2\Source\portable\RVDS\ARM_CM0\port.c
+.\obj\port.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\FreeRTOS.h
+.\obj\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\port.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\FreeRTOSConfig.h
+.\obj\port.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\projdefs.h
+.\obj\port.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\portable.h
+.\obj\port.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\portable\RVDS\ARM_CM0\portmacro.h
+.\obj\port.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\mpu_wrappers.h
+.\obj\port.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\task.h
+.\obj\port.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\list.h
