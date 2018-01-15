@@ -1,10 +1,10 @@
 .\obj\tasks.o: src\Official_Files\FreeRTOS_V8_1_2\Source\tasks.c
-.\obj\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-.\obj\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
-.\obj\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\tasks.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\tasks.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\tasks.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\obj\tasks.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\FreeRTOS.h
-.\obj\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
-.\obj\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\tasks.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\tasks.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\obj\tasks.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\FreeRTOSConfig.h
 .\obj\tasks.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\projdefs.h
 .\obj\tasks.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\portable.h

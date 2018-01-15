@@ -2,9 +2,9 @@
 .\obj\delay.o: Driver\delay.h
 .\obj\delay.o: .\src\Official_Files\STM32F0xx_StdPeriph_Driver\stm32f0xx.h
 .\obj\delay.o: .\src\Official_Files\CMSIS\core_cm0.h
-.\obj\delay.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-.\obj\delay.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\core_cmInstr.h
-.\obj\delay.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\core_cmFunc.h
+.\obj\delay.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\delay.o: .\src\Official_Files\CMSIS\core_cmInstr.h
+.\obj\delay.o: .\src\Official_Files\CMSIS\core_cmFunc.h
 .\obj\delay.o: .\src\Official_Files\STM32F0xx_StdPeriph_Driver\system_stm32f0xx.h
 .\obj\delay.o: .\src\Official_Files\STM32F0xx_StdPeriph_Driver\stm32f0xx_conf.h
 .\obj\delay.o: .\src\Official_Files\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_adc.h

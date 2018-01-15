@@ -3,9 +3,9 @@
 .\obj\stm32f0xx_it.o: src\User_Files\includes.h
 .\obj\stm32f0xx_it.o: .\src\Official_Files\STM32F0xx_StdPeriph_Driver\stm32f0xx.h
 .\obj\stm32f0xx_it.o: .\src\Official_Files\CMSIS\core_cm0.h
-.\obj\stm32f0xx_it.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-.\obj\stm32f0xx_it.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\core_cmInstr.h
-.\obj\stm32f0xx_it.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\core_cmFunc.h
+.\obj\stm32f0xx_it.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\stm32f0xx_it.o: .\src\Official_Files\CMSIS\core_cmInstr.h
+.\obj\stm32f0xx_it.o: .\src\Official_Files\CMSIS\core_cmFunc.h
 .\obj\stm32f0xx_it.o: .\src\Official_Files\STM32F0xx_StdPeriph_Driver\system_stm32f0xx.h
 .\obj\stm32f0xx_it.o: .\src\Official_Files\STM32F0xx_StdPeriph_Driver\stm32f0xx_conf.h
 .\obj\stm32f0xx_it.o: .\src\Official_Files\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_adc.h
@@ -26,7 +26,7 @@
 .\obj\stm32f0xx_it.o: .\src\Official_Files\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_misc.h
 .\obj\stm32f0xx_it.o: src\User_Files\bsp_projdefs.h
 .\obj\stm32f0xx_it.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\FreeRTOS.h
-.\obj\stm32f0xx_it.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\stm32f0xx_it.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\obj\stm32f0xx_it.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\FreeRTOSConfig.h
 .\obj\stm32f0xx_it.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\projdefs.h
 .\obj\stm32f0xx_it.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\portable.h

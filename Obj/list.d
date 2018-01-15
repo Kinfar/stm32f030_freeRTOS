@@ -1,8 +1,8 @@
 .\obj\list.o: src\Official_Files\FreeRTOS_V8_1_2\Source\list.c
-.\obj\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\list.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\obj\list.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\FreeRTOS.h
-.\obj\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
-.\obj\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\list.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\list.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\obj\list.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\FreeRTOSConfig.h
 .\obj\list.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\projdefs.h
 .\obj\list.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\portable.h

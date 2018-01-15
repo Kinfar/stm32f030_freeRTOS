@@ -2,9 +2,9 @@
 .\obj\stm32f0xx_rcc.o: .\src\Official_Files\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_rcc.h
 .\obj\stm32f0xx_rcc.o: .\src\Official_Files\STM32F0xx_StdPeriph_Driver\stm32f0xx.h
 .\obj\stm32f0xx_rcc.o: .\src\Official_Files\CMSIS\core_cm0.h
-.\obj\stm32f0xx_rcc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-.\obj\stm32f0xx_rcc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\core_cmInstr.h
-.\obj\stm32f0xx_rcc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\core_cmFunc.h
+.\obj\stm32f0xx_rcc.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\stm32f0xx_rcc.o: .\src\Official_Files\CMSIS\core_cmInstr.h
+.\obj\stm32f0xx_rcc.o: .\src\Official_Files\CMSIS\core_cmFunc.h
 .\obj\stm32f0xx_rcc.o: .\src\Official_Files\STM32F0xx_StdPeriph_Driver\system_stm32f0xx.h
 .\obj\stm32f0xx_rcc.o: .\src\Official_Files\STM32F0xx_StdPeriph_Driver\stm32f0xx_conf.h
 .\obj\stm32f0xx_rcc.o: .\src\Official_Files\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_adc.h

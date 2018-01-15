@@ -2,9 +2,9 @@
 .\obj\spi.o: Driver\spi.h
 .\obj\spi.o: .\src\Official_Files\STM32F0xx_StdPeriph_Driver\stm32f0xx.h
 .\obj\spi.o: .\src\Official_Files\CMSIS\core_cm0.h
-.\obj\spi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-.\obj\spi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\core_cmInstr.h
-.\obj\spi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\core_cmFunc.h
+.\obj\spi.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\spi.o: .\src\Official_Files\CMSIS\core_cmInstr.h
+.\obj\spi.o: .\src\Official_Files\CMSIS\core_cmFunc.h
 .\obj\spi.o: .\src\Official_Files\STM32F0xx_StdPeriph_Driver\system_stm32f0xx.h
 .\obj\spi.o: .\src\Official_Files\STM32F0xx_StdPeriph_Driver\stm32f0xx_conf.h
 .\obj\spi.o: .\src\Official_Files\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_adc.h

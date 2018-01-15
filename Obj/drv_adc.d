@@ -2,9 +2,9 @@
 .\obj\drv_adc.o: Driver\drv_adc.h
 .\obj\drv_adc.o: .\src\Official_Files\STM32F0xx_StdPeriph_Driver\stm32f0xx.h
 .\obj\drv_adc.o: .\src\Official_Files\CMSIS\core_cm0.h
-.\obj\drv_adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-.\obj\drv_adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\core_cmInstr.h
-.\obj\drv_adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\core_cmFunc.h
+.\obj\drv_adc.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\drv_adc.o: .\src\Official_Files\CMSIS\core_cmInstr.h
+.\obj\drv_adc.o: .\src\Official_Files\CMSIS\core_cmFunc.h
 .\obj\drv_adc.o: .\src\Official_Files\STM32F0xx_StdPeriph_Driver\system_stm32f0xx.h
 .\obj\drv_adc.o: .\src\Official_Files\STM32F0xx_StdPeriph_Driver\stm32f0xx_conf.h
 .\obj\drv_adc.o: .\src\Official_Files\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_adc.h
@@ -25,7 +25,7 @@
 .\obj\drv_adc.o: .\src\Official_Files\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_misc.h
 .\obj\drv_adc.o: Driver\delay.h
 .\obj\drv_adc.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\FreeRTOS.h
-.\obj\drv_adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\drv_adc.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\obj\drv_adc.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\FreeRTOSConfig.h
 .\obj\drv_adc.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\projdefs.h
 .\obj\drv_adc.o: .\src\Official_Files\FreeRTOS_V8_1_2\Source\include\portable.h
